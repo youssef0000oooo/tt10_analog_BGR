@@ -22,19 +22,19 @@ MACRO tt_um_joo111emad_BGR
         RECT 47.550 0.000 49.100 1.550 ;
     END
   END VGND
-  PIN VREF
-    ANTENNADIFFAREA 7.250000 ;
-    PORT
-      LAYER met4 ;
-        RECT 8.500 57.150 9.800 59.650 ;
-    END
-  END VREF
   PIN VDPWR
     PORT
       LAYER met4 ;
         RECT 0.000 0.000 1.750 1.900 ;
     END
   END VDPWR
+  PIN ua[0]
+    ANTENNADIFFAREA 7.250000 ;
+    PORT
+      LAYER met4 ;
+        RECT 8.500 57.150 9.800 59.650 ;
+    END
+  END ua[0]
   OBS
       LAYER pwell ;
         RECT 11.890 49.390 27.310 57.540 ;
