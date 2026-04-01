@@ -473,7 +473,7 @@ rect 1970 -1080 2320 -700
 rect 10980 -770 11100 10760
 rect 11200 -770 11290 10760
 rect 10980 -1080 11290 -770
-use sky130_fd_pr__nfet_05v0_nvt_9RSYXZ  sky130_fd_pr__nfet_05v0_nvt_9RSYXZ_0
+use sky130_fd_pr__nfet_05v0_nvt_9RSYXZ  sky130_fd_pr__nfet_05v0_nvt_9RSYXZ_0 /foss/designs/sky130_workspace/test_lab
 timestamp 1775050178
 transform -1 0 10242 0 -1 3360
 box -728 -2758 728 2758
@@ -481,7 +481,7 @@ use sky130_fd_pr__nfet_05v0_nvt_9RSYXZ  sky130_fd_pr__nfet_05v0_nvt_9RSYXZ_1
 timestamp 1775050178
 transform -1 0 8916 0 -1 3360
 box -728 -2758 728 2758
-use sky130_fd_pr__nfet_05v0_nvt_EDGFS9  sky130_fd_pr__nfet_05v0_nvt_EDGFS9_0
+use sky130_fd_pr__nfet_05v0_nvt_EDGFS9  sky130_fd_pr__nfet_05v0_nvt_EDGFS9_0 /foss/designs/sky130_workspace/test_lab
 timestamp 1775050178
 transform 0 -1 10622 1 0 -180
 box -728 -358 728 358
@@ -493,7 +493,7 @@ use sky130_fd_pr__nfet_05v0_nvt_EDGFS9  sky130_fd_pr__nfet_05v0_nvt_EDGFS9_2
 timestamp 1775050178
 transform 0 -1 10036 1 0 -180
 box -728 -358 728 358
-use sky130_fd_pr__pfet_g5v0d10v5_JVDRB2  sky130_fd_pr__pfet_g5v0d10v5_JVDRB2_9
+use sky130_fd_pr__pfet_g5v0d10v5_JVDRB2  sky130_fd_pr__pfet_g5v0d10v5_JVDRB2_9 /foss/designs/sky130_workspace/test_lab
 timestamp 1775050178
 transform 0 -1 5055 1 0 2020
 box -758 -2797 758 2797
@@ -505,11 +505,11 @@ use sky130_fd_pr__pfet_g5v0d10v5_JVDRB2  sky130_fd_pr__pfet_g5v0d10v5_JVDRB2_20
 timestamp 1775050178
 transform 0 -1 5055 1 0 4672
 box -758 -2797 758 2797
-use sky130_fd_pr__pfet_g5v0d10v5_KWVF27  sky130_fd_pr__pfet_g5v0d10v5_KWVF27_6
+use sky130_fd_pr__pfet_g5v0d10v5_KWVF27  sky130_fd_pr__pfet_g5v0d10v5_KWVF27_6 /foss/designs/sky130_workspace/test_lab
 timestamp 1775050178
 transform -1 0 6234 0 -1 541
 box -758 -397 758 397
-use sky130_fd_pr__pfet_g5v0d10v5_XGY3DY  sky130_fd_pr__pfet_g5v0d10v5_XGY3DY_6
+use sky130_fd_pr__pfet_g5v0d10v5_XGY3DY  sky130_fd_pr__pfet_g5v0d10v5_XGY3DY_6 /foss/designs/sky130_workspace/test_lab
 timestamp 1775050178
 transform 0 -1 3565 1 0 572
 box -358 -1297 358 1297
@@ -525,11 +525,11 @@ use sky130_fd_pr__res_xhigh_po_1p41_9HRWNB  sky130_fd_pr__res_xhigh_po_1p41_9HRW
 timestamp 1775050178
 transform 0 -1 5390 1 0 10121
 box -307 -1542 307 1542
-use sky130_fd_pr__res_xhigh_po_1p41_C2N6AC  sky130_fd_pr__res_xhigh_po_1p41_C2N6AC_0
+use sky130_fd_pr__res_xhigh_po_1p41_C2N6AC  sky130_fd_pr__res_xhigh_po_1p41_C2N6AC_0 /foss/designs/sky130_workspace/test_lab
 timestamp 1775050178
 transform 0 -1 5816 1 0 8331
 box -307 -1076 307 1076
-use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_3 pdks/sky130A/libs.ref/sky130_fd_pr/mag
+use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_3 $PDKPATH/libs.ref/sky130_fd_pr/mag
 timestamp 1766790402
 transform 0 -1 9688 1 0 9148
 box 0 0 1340 1340
