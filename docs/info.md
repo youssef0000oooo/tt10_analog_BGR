@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+this circuit gives ZTAT voltage reference>
 
 ## How to test
 
-Explain how to use your project
+simply measure the VREF pin with different temperatures, the rate of change should be within 1.2mV.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+high-precision benchtop multimeter (DMM)
+environmental chamber or thermal stream
+
