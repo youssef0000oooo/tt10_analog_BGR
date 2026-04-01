@@ -23,6 +23,8 @@ MACRO tt_um_joo111emad_BGR
     END
   END VGND
   PIN VDPWR
+    DIRECTION INOUT ;
+    USE POWER ;
     PORT
       LAYER met4 ;
         RECT 0.000 0.000 1.750 1.900 ;
