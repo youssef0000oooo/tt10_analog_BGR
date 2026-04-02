@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1775146003
+timestamp 1775147625
 << metal1 >>
 rect 6854 18558 20422 18818
 rect 6854 17540 7114 18558
@@ -121,8 +121,8 @@ rect 15642 0 15822 200
 rect 19506 0 19686 200
 rect 23370 0 23550 200
 rect 27234 0 27414 582
-use cell2  cell2_0
-timestamp 1775141006
+use cell2  cell2_0 /foss/designs/sky130_workspace/secondtest
+timestamp 1775147625
 transform 1 0 3684 0 1 6890
 box 1470 -1090 11270 10910
 << labels >>
