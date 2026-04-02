@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1775141006
+timestamp 1775142670
 << metal1 >>
 rect 6762 17466 26814 17726
 rect 6762 16340 7022 17466
@@ -113,31 +113,12 @@ rect 2316 768 2716 886
 rect 800 368 2716 768
 rect 26590 780 26770 1230
 rect 26590 600 28874 780
-rect 3314 0 3494 200
-rect 7178 0 7358 200
-rect 11042 0 11222 200
-rect 14906 0 15086 200
-rect 18770 0 18950 200
-rect 22634 0 22814 200
-rect 24740 0 24920 200
 rect 28694 0 28874 600
 use cell2  cell2_0
 timestamp 1775141006
 transform 1 0 3592 0 1 5690
 box 1470 -1090 11270 10910
 << labels >>
-flabel metal4 s 22634 0 22814 200 0 FreeSans 960 0 0 0 ua[2]
-port 5 nsew signal bidirectional
-flabel metal4 s 18770 0 18950 200 0 FreeSans 960 0 0 0 ua[3]
-port 6 nsew signal bidirectional
-flabel metal4 s 14906 0 15086 200 0 FreeSans 960 0 0 0 ua[4]
-port 7 nsew signal bidirectional
-flabel metal4 s 11042 0 11222 200 0 FreeSans 960 0 0 0 ua[5]
-port 8 nsew signal bidirectional
-flabel metal4 s 7178 0 7358 200 0 FreeSans 960 0 0 0 ua[6]
-port 9 nsew signal bidirectional
-flabel metal4 s 3314 0 3494 200 0 FreeSans 960 0 0 0 ua[7]
-port 10 nsew signal bidirectional
 flabel metal4 s 27662 44952 27722 45152 0 FreeSans 480 90 0 0 ui_in[0]
 port 11 nsew signal input
 flabel metal4 s 27110 44952 27170 45152 0 FreeSans 480 90 0 0 ui_in[1]
@@ -224,8 +205,6 @@ flabel metal4 800 1000 1200 44152 1 FreeSans 400 0 0 0 VGND
 port 52 nsew ground bidirectional
 rlabel metal4 1406 1000 1806 44152 1 VAPWR
 port 53 n power default
-flabel metal4 s 24740 0 24920 200 0 FreeSans 960 0 0 0 ua[1]
-port 4 nsew signal bidirectional
 flabel metal4 s 28058 44952 28118 45152 0 FreeSans 480 90 0 0 rst_n
 port 2 nsew signal input
 flabel metal4 s 28394 44952 28454 45152 0 FreeSans 480 90 0 0 clk
