@@ -37,7 +37,7 @@ MACRO tt_um_joo111emad_BGR
     ANTENNADIFFAREA 7.250000 ;
     PORT
       LAYER met4 ;
-        RECT 143.470 1.000 144.370 1.000 ;
+        RECT 143.470 0.000 144.370 1.000 ;
     END
   END ua[0]
   PIN ui_in[0]
