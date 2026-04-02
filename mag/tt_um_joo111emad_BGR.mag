@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1775136602
+timestamp 1775141006
 << metal1 >>
 rect 6762 17466 26814 17726
 rect 6762 16340 7022 17466
@@ -122,7 +122,7 @@ rect 22634 0 22814 200
 rect 24740 0 24920 200
 rect 28694 0 28874 600
 use cell2  cell2_0
-timestamp 1775126529
+timestamp 1775141006
 transform 1 0 3592 0 1 5690
 box 1470 -1090 11270 10910
 << labels >>
