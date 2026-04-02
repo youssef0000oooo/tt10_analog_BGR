@@ -12,7 +12,7 @@ MACRO tt_um_joo111emad_BGR
     USE SIGNAL ;
     PORT
       LAYER met4 ;
-        RECT 141.970 224.760 142.270 225.760 ;
+        RECT 141.970 225.760 142.270 225.760 ;
     END
   END clk
   PIN ena
@@ -377,6 +377,7 @@ MACRO tt_um_joo111emad_BGR
     END
   END VGND
   PIN VAPWR
+    DIRECTION INOUT ;
     USE POWER ;
     PORT
       LAYER met4 ;
